@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Blog Zombie"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "A BMS That Isn't Scary"
+description = "Blog Zombie is a Blog Management System (BMS) that makes adding blogs to your SPA easy."
 
 ## Open Graph
 images = ["doks.png"]
@@ -51,7 +51,7 @@ lqipWidth = "20x"
 
 # Footer
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2020-2021 Blog Zombie"
 
 # Alert
 alert = false
